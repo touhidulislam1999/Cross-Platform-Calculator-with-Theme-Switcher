@@ -3,16 +3,18 @@ This project is a cross-platform calculator app built using React Native and Exp
 
 # File Details
 **Button.tsx**
-***Purpose:***
-This file defines a reusable button component that dynamically changes its style based on the props passed (such as isBlue, isGray, or theme settings from the context). It handles button press events and renders text according to the theme.
-***Key Props:***
 
-***=>***onPress: Function to handle button press.
-***=>***title: Label displayed on the button.
-***=>***isBlue / isGray: Boolean values to apply specific button styles.
+**Purpose:**
+This file defines a reusable button component that dynamically changes its style based on the props passed (such as isBlue, isGray, or theme settings from the context). It handles button press events and renders text according to the theme.
+**Key Props:**
+
+**=>**onPress: Function to handle button press.
+**=>**title: Label displayed on the button.
+**=>**isBlue / isGray: Boolean values to apply specific button styles.
 
 **MyKeyBoard.tsx**
-***Purpose:***
+
+**Purpose:**
 This component represents the calculator’s keypad and manages the state for handling user input (numbers, operators, and results). It includes functions to handle number and operator presses, clear input, and calculate results.
 ***Key Features:***
 
