@@ -1,7 +1,7 @@
-#Introduction
+# Introduction
 This project is a cross-platform calculator app built using React Native and Expo, designed for both iOS and Android. The app supports basic arithmetic operations and features a toggle between light and dark themes. It also includes responsive UI elements and dynamic calculations that provide real-time results. The app’s user interface is styled to be intuitive, and it showcases theme adaptability with a switch button for dark and light modes.
 
-HFile Details
+# File Details
 **Button.tsx**
 ***Purpose:***
 This file defines a reusable button component that dynamically changes its style based on the props passed (such as isBlue, isGray, or theme settings from the context). It handles button press events and renders text according to the theme.
@@ -59,7 +59,7 @@ This is the main entry point of the app. It sets up the theme context provider, 
 ![IMG_5240](https://github.com/user-attachments/assets/19a36922-a85a-4ab7-b3ce-5fcc90849266)
 
 
-#Use Cases in Daily Life
+# Use Cases in Daily Life
 **1. Basic Calculator for Daily Calculations:**
 This app can be used for simple daily arithmetic operations like addition, subtraction, multiplication, and division. Its clean and intuitive interface makes it ideal for quick, on-the-go calculations.
 
